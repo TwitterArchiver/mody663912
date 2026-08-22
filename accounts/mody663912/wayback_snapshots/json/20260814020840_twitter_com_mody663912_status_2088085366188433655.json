@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087493030311845888",
+    "conversation_id": "2087518115651256778",
+    "created_at": "2026-08-14T02:08:40.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088085366188433655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "289298525",
+          "start": 0,
+          "username": "jiandu23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088085366188433655",
+    "in_reply_to_user_id": "289298525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087518575380795570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiandu23333 嗯。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087493030311845888",
+        "conversation_id": "2087518115651256778",
+        "created_at": "2026-08-14T02:08:40.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088085366188433655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "289298525",
+              "start": 0,
+              "username": "jiandu23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088085366188433655",
+        "in_reply_to_user_id": "289298525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087518575380795570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiandu23333 嗯。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2087518115651256778",
+        "created_at": "2026-08-12T12:36:27.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087518575380795570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087518575380795570",
+        "in_reply_to_user_id": "289298525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087518115651256778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有能联系上的方式问问……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088085366188433655",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "description": "非常好吃的饼酱/顺男/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 80,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 57,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOo1uA"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087913006915305543",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289298525/1786377878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 454,
+          "like_count": 15873,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/uJDpdOo1uA",
+        "username": "jiandu23333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

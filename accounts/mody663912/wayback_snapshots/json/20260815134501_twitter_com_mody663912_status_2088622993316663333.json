@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087493030311845888",
+    "conversation_id": "2088617355803005261",
+    "created_at": "2026-08-15T13:45:01.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088622993316663333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2068093112438943744",
+          "start": 0,
+          "username": "Yangkaiqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088622993316663333",
+    "in_reply_to_user_id": "2068093112438943744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088617355803005261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangkaiqh 宝宝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087493030311845888",
+        "conversation_id": "2088617355803005261",
+        "created_at": "2026-08-15T13:45:01.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088622993316663333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2068093112438943744",
+              "start": 0,
+              "username": "Yangkaiqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088622993316663333",
+        "in_reply_to_user_id": "2068093112438943744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088617355803005261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangkaiqh 宝宝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068093112438943744",
+        "conversation_id": "2088617355803005261",
+        "created_at": "2026-08-15T13:22:36.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088617355803005261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088617355803005261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我活不久了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088622993316663333",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 59,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T22:09:23.000Z",
+        "description": "無妨愛我淡泊，但求愛我長久\nサブ@04_OvO_24",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "04_OvO_24"
+              }
+            ]
+          }
+        },
+        "id": "2068093112438943744",
+        "is_identity_verified": false,
+        "location": "一個人哭真愛無敵",
+        "most_recent_tweet_id": "2088617355803005261",
+        "name": "淚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068093112438943744/1784838115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085342742637613056/2huHgGmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 79,
+          "like_count": 4017,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "Yangkaiqh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

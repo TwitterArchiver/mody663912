@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087493030311845888",
+    "conversation_id": "2089741804711395698",
+    "created_at": "2026-08-18T15:50:46.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089741804711395698"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089741804711395698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被迫戒了一天bzd 嗯。刚才被气的在路边吐了好久 好难受 但我现在手边没劳拉 我还得回我妈家 今晚 现在一直在听我妈叨叨 诉苦。我好累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087493030311845888",
+        "conversation_id": "2089741804711395698",
+        "created_at": "2026-08-18T15:50:46.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089741804711395698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089741804711395698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被迫戒了一天bzd 嗯。刚才被气的在路边吐了好久 好难受 但我现在手边没劳拉 我还得回我妈家 今晚 现在一直在听我妈叨叨 诉苦。我好累"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089741804711395698",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 59,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

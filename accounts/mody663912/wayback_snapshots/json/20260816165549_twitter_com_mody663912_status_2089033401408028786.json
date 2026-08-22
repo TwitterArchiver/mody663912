@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087493030311845888",
+    "conversation_id": "2089033401408028786",
+    "created_at": "2026-08-16T16:55:49.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089033401408028786"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089033401408028786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的公路车下午到了 我没在家 明天还得去调那个车 我操我好累呀 能不能不要这个车了 今天骑了一天共享单车我已经累的够呛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087493030311845888",
+        "conversation_id": "2089033401408028786",
+        "created_at": "2026-08-16T16:55:49.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089033401408028786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089033401408028786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的公路车下午到了 我没在家 明天还得去调那个车 我操我好累呀 能不能不要这个车了 今天骑了一天共享单车我已经累的够呛了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089033401408028786",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 57,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

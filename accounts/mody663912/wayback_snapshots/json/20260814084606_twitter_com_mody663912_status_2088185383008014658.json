@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087493030311845888",
+    "conversation_id": "2088185383008014658",
+    "created_at": "2026-08-14T08:46:06.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088185383008014658"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088185383008014658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是生命对我的考验知道吧。我不能崩溃 也不能放弃活着 我得更努力的好好学习 没关系 十二点你是最坚强的 度过了这层考验说不定人生就会变得更牛逼呢。\n如果人真的有上一世 我就想问问你到底造了多少孽 做了多少坏事 因果报应全到我身上了！算了 我不恨你 我的命呀 那我这一世就帮你承担吧^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087493030311845888",
+        "conversation_id": "2088185383008014658",
+        "created_at": "2026-08-14T08:46:06.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088185383008014658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088185383008014658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是生命对我的考验知道吧。我不能崩溃 也不能放弃活着 我得更努力的好好学习 没关系 十二点你是最坚强的 度过了这层考验说不定人生就会变得更牛逼呢。\n如果人真的有上一世 我就想问问你到底造了多少孽 做了多少坏事 因果报应全到我身上了！算了 我不恨你 我的命呀 那我这一世就帮你承担吧^^"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088185383008014658",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 48,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

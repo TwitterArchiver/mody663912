@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088931642530566145",
+        "3_2088931652840177664"
+      ]
+    },
+    "author_id": "2087493030311845888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088931661316816994",
+    "created_at": "2026-08-16T10:11:33.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088931661316816994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Veaf4bj6Pt",
+          "end": 66,
+          "expanded_url": "https://x.com/mody663912/status/2088931661316816994/photo/1",
+          "media_key": "3_2088931642530566145",
+          "start": 43,
+          "url": "https://t.co/Veaf4bj6Pt"
+        },
+        {
+          "display_url": "pic.x.com/Veaf4bj6Pt",
+          "end": 66,
+          "expanded_url": "https://x.com/mody663912/status/2088931661316816994/photo/1",
+          "media_key": "3_2088931652840177664",
+          "start": 43,
+          "url": "https://t.co/Veaf4bj6Pt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088931661316816994",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088931642530566145"
+      },
+      {
+        "media_key": "3_2088931652840177664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我像个傻逼一样在这里喝接骨木花饮料。四元桥的宜家餐厅没有座位。\n喝的我现在。肚子疼。 https://t.co/Veaf4bj6Pt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3445,
+        "media_key": "3_2088931642530566145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1gQuEbkAE_Qgw.jpg",
+        "width": 2583
+      },
+      {
+        "height": 3637,
+        "media_key": "3_2088931652840177664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1gRUebwAA4A7n.jpg",
+        "width": 2728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088931642530566145",
+            "3_2088931652840177664"
+          ]
+        },
+        "author_id": "2087493030311845888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088931661316816994",
+        "created_at": "2026-08-16T10:11:33.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088931661316816994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Veaf4bj6Pt",
+              "end": 66,
+              "expanded_url": "https://x.com/mody663912/status/2088931661316816994/photo/1",
+              "media_key": "3_2088931642530566145",
+              "start": 43,
+              "url": "https://t.co/Veaf4bj6Pt"
+            },
+            {
+              "display_url": "pic.x.com/Veaf4bj6Pt",
+              "end": 66,
+              "expanded_url": "https://x.com/mody663912/status/2088931661316816994/photo/1",
+              "media_key": "3_2088931652840177664",
+              "start": 43,
+              "url": "https://t.co/Veaf4bj6Pt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088931661316816994",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088931642530566145"
+          },
+          {
+            "media_key": "3_2088931652840177664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我像个傻逼一样在这里喝接骨木花饮料。四元桥的宜家餐厅没有座位。\n喝的我现在。肚子疼。 https://t.co/Veaf4bj6Pt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088931661316816994",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 57,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

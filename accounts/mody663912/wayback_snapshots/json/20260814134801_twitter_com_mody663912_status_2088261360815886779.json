@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088261336463818752"
+      ]
+    },
+    "author_id": "2087493030311845888",
+    "conversation_id": "2088261360815886779",
+    "created_at": "2026-08-14T13:48:01.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088261360815886779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kwie5apiR0",
+          "end": 39,
+          "expanded_url": "https://x.com/mody663912/status/2088261360815886779/video/1",
+          "media_key": "13_2088261336463818752",
+          "start": 16,
+          "url": "https://t.co/kwie5apiR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088261360815886779",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088261336463818752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还是喜欢这个。还想再发一遍。 https://t.co/kwie5apiR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6176,
+        "height": 1280,
+        "media_key": "13_2088261336463818752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088261336463818752/img/s7z0FKCftWjn7En9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088261336463818752/vid/avc1/320x568/J2t0uWBLEBFtvMkP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088261336463818752/vid/avc1/480x852/w-4v2YfL90TGEXGY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088261336463818752/vid/avc1/720x1280/3tb2CbMv4m5ptO88.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088261336463818752/pl/uLUXfbL-I21fQxnl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088261336463818752"
+          ]
+        },
+        "author_id": "2087493030311845888",
+        "conversation_id": "2088261360815886779",
+        "created_at": "2026-08-14T13:48:01.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088261360815886779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwie5apiR0",
+              "end": 39,
+              "expanded_url": "https://x.com/mody663912/status/2088261360815886779/video/1",
+              "media_key": "13_2088261336463818752",
+              "start": 16,
+              "url": "https://t.co/kwie5apiR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088261360815886779",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088261336463818752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是喜欢这个。还想再发一遍。 https://t.co/kwie5apiR0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088261360815886779",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 48,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

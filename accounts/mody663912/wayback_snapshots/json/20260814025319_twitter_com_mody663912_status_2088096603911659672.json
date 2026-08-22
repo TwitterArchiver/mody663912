@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088096571032571904",
+        "3_2088096582571057152",
+        "3_2088096592272519168",
+        "3_2088096596978548736"
+      ]
+    },
+    "author_id": "2087493030311845888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088096603911659672",
+    "created_at": "2026-08-14T02:53:19.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088096603911659672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XSmBwWtj1D",
+          "end": 66,
+          "expanded_url": "https://x.com/mody663912/status/2088096603911659672/photo/1",
+          "media_key": "3_2088096571032571904",
+          "start": 43,
+          "url": "https://t.co/XSmBwWtj1D"
+        },
+        {
+          "display_url": "pic.x.com/XSmBwWtj1D",
+          "end": 66,
+          "expanded_url": "https://x.com/mody663912/status/2088096603911659672/photo/1",
+          "media_key": "3_2088096582571057152",
+          "start": 43,
+          "url": "https://t.co/XSmBwWtj1D"
+        },
+        {
+          "display_url": "pic.x.com/XSmBwWtj1D",
+          "end": 66,
+          "expanded_url": "https://x.com/mody663912/status/2088096603911659672/photo/1",
+          "media_key": "3_2088096592272519168",
+          "start": 43,
+          "url": "https://t.co/XSmBwWtj1D"
+        },
+        {
+          "display_url": "pic.x.com/XSmBwWtj1D",
+          "end": 66,
+          "expanded_url": "https://x.com/mody663912/status/2088096603911659672/photo/1",
+          "media_key": "3_2088096596978548736",
+          "start": 43,
+          "url": "https://t.co/XSmBwWtj1D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088096603911659672",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088096571032571904"
+      },
+      {
+        "media_key": "3_2088096582571057152"
+      },
+      {
+        "media_key": "3_2088096592272519168"
+      },
+      {
+        "media_key": "3_2088096596978548736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为我朋友天天骂我。所以我做了西红柿炒鸡蛋\n这是我第一次做饭知道吧。所有人都得夸夸我 https://t.co/XSmBwWtj1D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088096571032571904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpoxKUbkAAlcLC.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2088096582571057152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpox1Ta4AAi8k-.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2122,
+        "media_key": "3_2088096592272519168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpoyZcbcAAQ5u7.jpg",
+        "width": 918
+      },
+      {
+        "height": 2094,
+        "media_key": "3_2088096596978548736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpoyq-bwAAdp8H.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088096571032571904",
+            "3_2088096582571057152",
+            "3_2088096592272519168",
+            "3_2088096596978548736"
+          ]
+        },
+        "author_id": "2087493030311845888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088096603911659672",
+        "created_at": "2026-08-14T02:53:19.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088096603911659672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XSmBwWtj1D",
+              "end": 66,
+              "expanded_url": "https://x.com/mody663912/status/2088096603911659672/photo/1",
+              "media_key": "3_2088096571032571904",
+              "start": 43,
+              "url": "https://t.co/XSmBwWtj1D"
+            },
+            {
+              "display_url": "pic.x.com/XSmBwWtj1D",
+              "end": 66,
+              "expanded_url": "https://x.com/mody663912/status/2088096603911659672/photo/1",
+              "media_key": "3_2088096582571057152",
+              "start": 43,
+              "url": "https://t.co/XSmBwWtj1D"
+            },
+            {
+              "display_url": "pic.x.com/XSmBwWtj1D",
+              "end": 66,
+              "expanded_url": "https://x.com/mody663912/status/2088096603911659672/photo/1",
+              "media_key": "3_2088096592272519168",
+              "start": 43,
+              "url": "https://t.co/XSmBwWtj1D"
+            },
+            {
+              "display_url": "pic.x.com/XSmBwWtj1D",
+              "end": 66,
+              "expanded_url": "https://x.com/mody663912/status/2088096603911659672/photo/1",
+              "media_key": "3_2088096596978548736",
+              "start": 43,
+              "url": "https://t.co/XSmBwWtj1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088096603911659672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088096571032571904"
+          },
+          {
+            "media_key": "3_2088096582571057152"
+          },
+          {
+            "media_key": "3_2088096592272519168"
+          },
+          {
+            "media_key": "3_2088096596978548736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为我朋友天天骂我。所以我做了西红柿炒鸡蛋\n这是我第一次做饭知道吧。所有人都得夸夸我 https://t.co/XSmBwWtj1D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088096603911659672",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

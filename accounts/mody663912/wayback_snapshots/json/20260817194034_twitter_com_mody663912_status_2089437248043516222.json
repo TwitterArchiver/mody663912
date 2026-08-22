@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089437101024751616"
+      ]
+    },
+    "author_id": "2087493030311845888",
+    "conversation_id": "2089437248043516222",
+    "created_at": "2026-08-17T19:40:34.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T20:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089437248043516222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s0OFEZ4VWZ",
+          "end": 23,
+          "expanded_url": "https://x.com/mody663912/status/2089437248043516222/video/1",
+          "media_key": "13_2089437101024751616",
+          "start": 0,
+          "url": "https://t.co/s0OFEZ4VWZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089437248043516222",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2089437101024751616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/s0OFEZ4VWZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 131564,
+        "height": 720,
+        "media_key": "13_2089437101024751616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089437101024751616/img/XkBwXpCdsBsnPcxA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089437101024751616/vid/avc1/480x270/qWEq1wBEKHKOcGQk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089437101024751616/vid/avc1/640x360/Y9NhoaBKm8nOz0iy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089437101024751616/vid/avc1/1280x720/cln0tp-Ih6KHAf0I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089437101024751616/pl/K-tdoEGl5xZ7DX2x.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089437101024751616"
+          ]
+        },
+        "author_id": "2087493030311845888",
+        "conversation_id": "2089437248043516222",
+        "created_at": "2026-08-17T19:40:34.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089437248043516222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0OFEZ4VWZ",
+              "end": 23,
+              "expanded_url": "https://x.com/mody663912/status/2089437248043516222/video/1",
+              "media_key": "13_2089437101024751616",
+              "start": 0,
+              "url": "https://t.co/s0OFEZ4VWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089437248043516222",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089437101024751616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s0OFEZ4VWZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089437248043516222",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 59,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

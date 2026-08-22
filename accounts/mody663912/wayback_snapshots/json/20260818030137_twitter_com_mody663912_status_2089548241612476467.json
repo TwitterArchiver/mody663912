@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089548221588869120",
+        "3_2089548228777930752",
+        "3_2089548235367202816"
+      ]
+    },
+    "author_id": "2087493030311845888",
+    "conversation_id": "2089548241612476467",
+    "created_at": "2026-08-18T03:01:37.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089548241612476467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CIo5l7RaVd",
+          "end": 104,
+          "expanded_url": "https://x.com/mody663912/status/2089548241612476467/photo/1",
+          "media_key": "3_2089548221588869120",
+          "start": 81,
+          "url": "https://t.co/CIo5l7RaVd"
+        },
+        {
+          "display_url": "pic.x.com/CIo5l7RaVd",
+          "end": 104,
+          "expanded_url": "https://x.com/mody663912/status/2089548241612476467/photo/1",
+          "media_key": "3_2089548228777930752",
+          "start": 81,
+          "url": "https://t.co/CIo5l7RaVd"
+        },
+        {
+          "display_url": "pic.x.com/CIo5l7RaVd",
+          "end": 104,
+          "expanded_url": "https://x.com/mody663912/status/2089548241612476467/photo/1",
+          "media_key": "3_2089548235367202816",
+          "start": 81,
+          "url": "https://t.co/CIo5l7RaVd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089548241612476467",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089548221588869120"
+      },
+      {
+        "media_key": "3_2089548228777930752"
+      },
+      {
+        "media_key": "3_2089548235367202816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这傻逼从昨天一点开始突然问我之前喜欢的人是谁 他妈的 一直发消息 一直骚扰 我要烦死了啊 嗯。我他妈之前喜欢的确实是他 不过他现在变成了个大傻逼了啊 我被气晕了 https://t.co/CIo5l7RaVd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_2089548221588869120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-RCWDakAAWAKR.jpg",
+        "width": 925
+      },
+      {
+        "height": 2084,
+        "media_key": "3_2089548228777930752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-RCw1a8AAPzQi.jpg",
+        "width": 935
+      },
+      {
+        "height": 2103,
+        "media_key": "3_2089548235367202816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-RDJYbQAAewkH.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089548221588869120",
+            "3_2089548228777930752",
+            "3_2089548235367202816"
+          ]
+        },
+        "author_id": "2087493030311845888",
+        "conversation_id": "2089548241612476467",
+        "created_at": "2026-08-18T03:01:37.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089548241612476467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIo5l7RaVd",
+              "end": 104,
+              "expanded_url": "https://x.com/mody663912/status/2089548241612476467/photo/1",
+              "media_key": "3_2089548221588869120",
+              "start": 81,
+              "url": "https://t.co/CIo5l7RaVd"
+            },
+            {
+              "display_url": "pic.x.com/CIo5l7RaVd",
+              "end": 104,
+              "expanded_url": "https://x.com/mody663912/status/2089548241612476467/photo/1",
+              "media_key": "3_2089548228777930752",
+              "start": 81,
+              "url": "https://t.co/CIo5l7RaVd"
+            },
+            {
+              "display_url": "pic.x.com/CIo5l7RaVd",
+              "end": 104,
+              "expanded_url": "https://x.com/mody663912/status/2089548241612476467/photo/1",
+              "media_key": "3_2089548235367202816",
+              "start": 81,
+              "url": "https://t.co/CIo5l7RaVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089548241612476467",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089548221588869120"
+          },
+          {
+            "media_key": "3_2089548228777930752"
+          },
+          {
+            "media_key": "3_2089548235367202816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这傻逼从昨天一点开始突然问我之前喜欢的人是谁 他妈的 一直发消息 一直骚扰 我要烦死了啊 嗯。我他妈之前喜欢的确实是他 不过他现在变成了个大傻逼了啊 我被气晕了 https://t.co/CIo5l7RaVd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089548241612476467",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 59,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

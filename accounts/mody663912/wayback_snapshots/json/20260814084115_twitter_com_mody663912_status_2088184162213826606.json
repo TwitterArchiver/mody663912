@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087493030311845888",
+    "conversation_id": "2088179363955298339",
+    "created_at": "2026-08-14T08:41:15.000Z",
+    "display_text_range": [
+      28,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088184162213826606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083081810859466752",
+          "start": 0,
+          "username": "yuzhazha69"
+        },
+        {
+          "end": 27,
+          "id": "2063574393201311745",
+          "start": 12,
+          "username": "zhoushashaff9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088184162213826606",
+    "in_reply_to_user_id": "2083081810859466752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088179363955298339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhazha69 @zhoushashaff9n 两个萌物啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088179351150063616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPq0DmSa8AABQjC.jpg",
+        "width": 1522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087493030311845888",
+        "conversation_id": "2088179363955298339",
+        "created_at": "2026-08-14T08:41:15.000Z",
+        "display_text_range": [
+          28,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088184162213826606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083081810859466752",
+              "start": 0,
+              "username": "yuzhazha69"
+            },
+            {
+              "end": 27,
+              "id": "2063574393201311745",
+              "start": 12,
+              "username": "zhoushashaff9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088184162213826606",
+        "in_reply_to_user_id": "2083081810859466752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088179363955298339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhazha69 @zhoushashaff9n 两个萌物啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088179351150063616"
+          ]
+        },
+        "author_id": "2083081810859466752",
+        "conversation_id": "2088179363955298339",
+        "created_at": "2026-08-14T08:22:11.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088179363955298339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2063574393201311745",
+              "start": 3,
+              "username": "zhoushashaff9n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHGpCtbYap",
+              "end": 42,
+              "expanded_url": "https://x.com/yuzhazha69/status/2088179363955298339/photo/1",
+              "media_key": "3_2088179351150063616",
+              "start": 19,
+              "url": "https://t.co/oHGpCtbYap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088179363955298339",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088179351150063616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操死你@zhoushashaff9n https://t.co/oHGpCtbYap"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088184162213826606",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 48,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T06:47:17.000Z",
+        "description": "4.0火乍玉\nod/自伤/精神病内容\n妈妈@boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "boqiaoahm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/dg9AMazDAV"
+              }
+            ]
+          }
+        },
+        "id": "2083081810859466752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088183283129753911",
+        "name": "炸炸火乍玉",
+        "pinned_tweet_id": "2086345944996659524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083081810859466752/1785480562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083082423362031617/XGLgLscM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 183,
+          "like_count": 647,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/dg9AMazDAV",
+        "username": "yuzhazha69",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-07T10:52:00.000Z",
+        "description": "sasioverlxrd\n唯一心肝大玉：@okokok333444\n唯一女神小玉：@boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "okokok333444"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "2063574393201311745",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088172763349713105",
+        "name": "當不了你的天使該怎麼說謊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063574393201311745/1780890617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086110918099017730/H6s1DSwg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 1,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "zhoushashaff9n",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

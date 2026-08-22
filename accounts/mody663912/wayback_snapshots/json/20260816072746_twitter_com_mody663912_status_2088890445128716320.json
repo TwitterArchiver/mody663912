@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088890399423393793",
+        "3_2088890412245356544",
+        "3_2088890424501116928",
+        "3_2088890436199002112"
+      ]
+    },
+    "author_id": "2087493030311845888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088890445128716320",
+    "created_at": "2026-08-16T07:27:46.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088890445128716320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8wqwoonLKj",
+          "end": 28,
+          "expanded_url": "https://x.com/mody663912/status/2088890445128716320/photo/1",
+          "media_key": "3_2088890399423393793",
+          "start": 5,
+          "url": "https://t.co/8wqwoonLKj"
+        },
+        {
+          "display_url": "pic.x.com/8wqwoonLKj",
+          "end": 28,
+          "expanded_url": "https://x.com/mody663912/status/2088890445128716320/photo/1",
+          "media_key": "3_2088890412245356544",
+          "start": 5,
+          "url": "https://t.co/8wqwoonLKj"
+        },
+        {
+          "display_url": "pic.x.com/8wqwoonLKj",
+          "end": 28,
+          "expanded_url": "https://x.com/mody663912/status/2088890445128716320/photo/1",
+          "media_key": "3_2088890424501116928",
+          "start": 5,
+          "url": "https://t.co/8wqwoonLKj"
+        },
+        {
+          "display_url": "pic.x.com/8wqwoonLKj",
+          "end": 28,
+          "expanded_url": "https://x.com/mody663912/status/2088890445128716320/photo/1",
+          "media_key": "3_2088890436199002112",
+          "start": 5,
+          "url": "https://t.co/8wqwoonLKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088890445128716320",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088890399423393793"
+      },
+      {
+        "media_key": "3_2088890412245356544"
+      },
+      {
+        "media_key": "3_2088890424501116928"
+      },
+      {
+        "media_key": "3_2088890436199002112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "菜市场。 https://t.co/8wqwoonLKj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2088890399423393793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP06wDha8AEBfEm.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2088890412245356544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP06wzSakAA3f2b.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2088890424501116928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP06xg8aoAAixAO.jpg",
+        "width": 3000
+      },
+      {
+        "height": 2524,
+        "media_key": "3_2088890436199002112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP06yMhaMAAD42D.jpg",
+        "width": 3366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088890399423393793",
+            "3_2088890412245356544",
+            "3_2088890424501116928",
+            "3_2088890436199002112"
+          ]
+        },
+        "author_id": "2087493030311845888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088890445128716320",
+        "created_at": "2026-08-16T07:27:46.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088890445128716320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wqwoonLKj",
+              "end": 28,
+              "expanded_url": "https://x.com/mody663912/status/2088890445128716320/photo/1",
+              "media_key": "3_2088890399423393793",
+              "start": 5,
+              "url": "https://t.co/8wqwoonLKj"
+            },
+            {
+              "display_url": "pic.x.com/8wqwoonLKj",
+              "end": 28,
+              "expanded_url": "https://x.com/mody663912/status/2088890445128716320/photo/1",
+              "media_key": "3_2088890412245356544",
+              "start": 5,
+              "url": "https://t.co/8wqwoonLKj"
+            },
+            {
+              "display_url": "pic.x.com/8wqwoonLKj",
+              "end": 28,
+              "expanded_url": "https://x.com/mody663912/status/2088890445128716320/photo/1",
+              "media_key": "3_2088890424501116928",
+              "start": 5,
+              "url": "https://t.co/8wqwoonLKj"
+            },
+            {
+              "display_url": "pic.x.com/8wqwoonLKj",
+              "end": 28,
+              "expanded_url": "https://x.com/mody663912/status/2088890445128716320/photo/1",
+              "media_key": "3_2088890436199002112",
+              "start": 5,
+              "url": "https://t.co/8wqwoonLKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088890445128716320",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088890399423393793"
+          },
+          {
+            "media_key": "3_2088890412245356544"
+          },
+          {
+            "media_key": "3_2088890424501116928"
+          },
+          {
+            "media_key": "3_2088890436199002112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菜市场。 https://t.co/8wqwoonLKj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088890445128716320",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 56,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

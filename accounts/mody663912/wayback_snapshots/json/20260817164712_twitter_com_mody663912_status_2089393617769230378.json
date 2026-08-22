@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087493030311845888",
+    "conversation_id": "2089385899914313793",
+    "created_at": "2026-08-17T16:47:12.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089393617769230378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683427478780641280",
+          "start": 0,
+          "username": "ChocoEarlyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089393617769230378",
+    "in_reply_to_user_id": "1683427478780641280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089392383469519024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChocoEarlyyy 我头发特别硬 软化了三个多小时"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087493030311845888",
+        "conversation_id": "2089385899914313793",
+        "created_at": "2026-08-17T16:47:12.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089393617769230378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683427478780641280",
+              "start": 0,
+              "username": "ChocoEarlyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089393617769230378",
+        "in_reply_to_user_id": "1683427478780641280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089392383469519024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChocoEarlyyy 我头发特别硬 软化了三个多小时"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683427478780641280",
+        "conversation_id": "2089385899914313793",
+        "created_at": "2026-08-17T16:42:17.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089392383469519024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087493030311845888",
+              "start": 0,
+              "username": "mody663912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089392383469519024",
+        "in_reply_to_user_id": "2087493030311845888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089385899914313793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mody663912 怎么做头发能花五个小时？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089393617769230378",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 58,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-24T10:43:12.000Z",
+        "description": "",
+        "id": "1683427478780641280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089392383469519024",
+        "name": "Choco",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683427478780641280/1756264244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058223250623377408/fqYUr2X4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 26,
+          "like_count": 4302,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "ChocoEarlyyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

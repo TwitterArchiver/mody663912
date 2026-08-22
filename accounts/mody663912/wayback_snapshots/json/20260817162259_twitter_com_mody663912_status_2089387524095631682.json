@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087493030311845888",
+    "conversation_id": "2089385654031659471",
+    "created_at": "2026-08-17T16:22:59.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089387524095631682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2068093112438943744",
+          "start": 0,
+          "username": "Yangkaiqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089387524095631682",
+    "in_reply_to_user_id": "2068093112438943744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089387225071190242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangkaiqh 你发给我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087493030311845888",
+        "conversation_id": "2089385654031659471",
+        "created_at": "2026-08-17T16:22:59.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089387524095631682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2068093112438943744",
+              "start": 0,
+              "username": "Yangkaiqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089387524095631682",
+        "in_reply_to_user_id": "2068093112438943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089387225071190242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangkaiqh 你发给我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068093112438943744",
+        "conversation_id": "2089385654031659471",
+        "created_at": "2026-08-17T16:21:48.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089387225071190242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087493030311845888",
+              "start": 0,
+              "username": "mody663912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089387225071190242",
+        "in_reply_to_user_id": "2087493030311845888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089385654031659471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mody663912 要不要試試我的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T10:55:57.000Z",
+        "description": "",
+        "id": "2087493030311845888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089387524095631682",
+        "name": "mody",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087493030311845888/1786672956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088083486607560705/pJ0XUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 58,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "mody663912",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T22:09:23.000Z",
+        "description": "無妨愛我淡泊，但求愛我長久\nサブ@04_OvO_24",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "04_OvO_24"
+              }
+            ]
+          }
+        },
+        "id": "2068093112438943744",
+        "is_identity_verified": false,
+        "location": "一個人哭真愛無敵",
+        "most_recent_tweet_id": "2089387225071190242",
+        "name": "淚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068093112438943744/1786981401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085342742637613056/2huHgGmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 76,
+          "like_count": 4338,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 418
+        },
+        "url": "",
+        "username": "Yangkaiqh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
